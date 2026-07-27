@@ -26,8 +26,8 @@ serverlessConfig:
     MaxIdleTime: 300
   Resources:
     CPU: 0.1
-    MemoryMB: 128
-    MemoryMaxMB: 128
+    MemoryMB: 512
+    MemoryMaxMB: 512
   Timeout: 60
   Validations: null
 
